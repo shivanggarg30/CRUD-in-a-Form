@@ -1,10 +1,10 @@
 This is a simple, client-side CRUD (Create, Read, Update, Delete) web application built using HTML and JavaScript . It allows users to:
 
-    Add new student records
+    Add new user records
 
-    View all students in a table
+    View all users in a table
 
-    Edit existing student information
+    Edit existing user information
 
     Delete unwanted records
 
